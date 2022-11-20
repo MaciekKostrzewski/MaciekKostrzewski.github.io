@@ -253,7 +253,7 @@ body{
 .team-box-left:hover{
     background: linear-gradient(180deg, rgba(243,129,129,0.9) 0%, rgba(251,227,137,0.9) 100%,), url(images/team-1.png) no-repeat 20% 50%;
     background-clip: content-box;
-    background-size: auto;
+    background-size: cover;
 }
 
 
