@@ -437,9 +437,12 @@ button:hover {
     flex-direction: column;
     align-items: center;
   }
+  .team-box {
+    padding: 20px 0;
+  }
   .wrap {
     width: 100%;
-    max-width: 670px;
+    max-width: 650px;
     padding-bottom: 20px;
   }
 }
